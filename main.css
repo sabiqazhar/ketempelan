@@ -9,9 +9,10 @@ html, body {
 }
 
 .logo {
-  width: 400px;
+  width: 360px;
   display: block;
   margin: auto;
+  position: relative;
 }
 
 .btn {
